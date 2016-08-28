@@ -1,6 +1,6 @@
 {
   "name": "iugujs-wrapper",
-  "version": "1.0",
+  "version": "1.1",
   "homepage": "https://github.com/yuriploc/iugujs-unofficial",
   "description": "A unofficial iugu.js wrapper for bower. This package was created to reduce network calls in mobile apps.",
   "main": "iugu.js",
