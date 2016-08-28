@@ -1,0 +1,21 @@
+{
+  "name": "iugujs-wrapper",
+  "homepage": "https://github.com/yuriploc/iugujs-unofficial",
+  "description": "A unofficial iugu.js wrapper for bower. This package was created to reduce network calls in mobile apps.",
+  "main": "iugu.js",
+  "keywords": [
+    "iugu",
+    "iugujs"
+  ],
+  "authors": [
+    "Yuri Oliveira <bmonk@protonmail.ch>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
